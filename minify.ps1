@@ -1,5 +1,5 @@
 param(
-    [String] $InputFile = "loader.js"
+    [String] $InputFile = "launcher.js"
 )
 
 # documentation at https://www.npmjs.com/package/terser
